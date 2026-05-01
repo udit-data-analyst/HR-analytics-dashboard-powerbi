@@ -49,3 +49,4 @@ This dashboard helps HR teams identify high-risk attrition groups and supports s
 
 ## 🔗 Author
 Udit Raj Singh  
+Data Analyst | Power BI • SQL • Excel 
