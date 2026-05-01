@@ -1,23 +1,56 @@
-# HR Analytics Dashboard 📊
+# 📊 HR Analytics Dashboard (Power BI)
 
 ## 🔍 Overview
-This project analyzes employee data to identify attrition trends, performance metrics, and workforce insights.
+This project analyzes HR data to identify key factors affecting employee attrition and workforce trends. The dashboard provides actionable insights to support data-driven HR decisions.
 
-## 🛠 Tools Used
-- Power BI
-- Excel
-- SQL
+---
 
-## 📈 Key Achievements
-- Reduced reporting time by 40%
-- Identified high attrition trends
-- Improved HR decision-making
+## 🎯 Objectives
+- Analyze employee attrition patterns  
+- Identify key drivers of workforce turnover  
+- Build an interactive dashboard for HR insights  
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI (Data Visualization)
+- Power Query (Data Cleaning & Transformation)
+- DAX (Calculated Measures)
+- Excel (Data Source)
+
+---
+
+## 📊 Key KPIs
+- Total Employees  
+- Attrition Count & Attrition Rate (%)  
+- Average Age  
+- Average Salary  
+- Years at Company  
+
+---
+
+## 📈 Key Insights
+- Higher attrition observed in the Sales department  
+- Employees with lower salaries show higher turnover  
+- Majority of attrition occurs within the first 2 years  
+- Younger employees have relatively higher attrition rates  
+
+---
+
+## 📂 Dataset
+HR dataset including employee demographics, salary, job role, and attrition details.
+
+---
 
 ## 📷 Dashboard Preview
-(Add screenshot here)
+(Add your dashboard screenshot here)
+
+---
 
 ## 💡 Business Impact
-Enabled data-driven HR decisions and improved workforce planning.
+This dashboard helps HR teams identify high-risk attrition groups and supports strategic workforce planning.
+
+---
 
 ## 🔗 Author
-Udit Raj Singh
+Udit Raj Singh  
