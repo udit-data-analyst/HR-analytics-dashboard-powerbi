@@ -42,11 +42,6 @@ HR dataset including employee demographics, salary, job role, and attrition deta
 
 ---
 
-## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
-
----
-
 ## 💡 Business Impact
 This dashboard helps HR teams identify high-risk attrition groups and supports strategic workforce planning.
 
